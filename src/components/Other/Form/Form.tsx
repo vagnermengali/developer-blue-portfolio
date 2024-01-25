@@ -22,7 +22,7 @@ export type FormData = {
 const Form: FC = () => {
   const { register, handleSubmit } = useForm<FormData>();
 
-  function onSubmit(data: FormData) {
+  function onSubmit(data: any) {
     sendEmail(data);
   }
 
