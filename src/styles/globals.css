@@ -1,0 +1,66 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+  body::-webkit-scrollbar {
+    width: 18px;
+  }
+
+  body::-webkit-scrollbar-track {
+    @apply bg-senary;
+  }
+
+  body::-webkit-scrollbar-thumb {
+    @apply bg-primary rounded-[6px] border-2 border-senary border-solid;
+  }
+  .min-description-height {
+    @apply min-h-[200px];
+  }
+}
+
+.h1 {
+  @apply text-6xl xl:text-[72px] xl:leading-[80px]
+  tracking-[-2px] font-bold;
+}
+
+.h2 {
+  @apply text-4xl font-bold;
+}
+
+.h3 {
+  @apply text-3xl font-bold;
+}
+
+.h4 {
+  @apply text-[22px] font-semibold;
+}
+
+.subtitle {
+  @apply text-muted-foreground text-lg mb-8 font-light;
+}
+
+.section-title {
+  @apply text-3xl sm:text-[2.7rem] font-bold relative w-max flex items-center 
+  justify-between gap-x-3 uppercase text-quinary;
+}
+
+.badge {
+  @apply z-10 w-[200px] h-[68px] bg-quaternary backdrop-blur-[44px] shadow-2xl
+  p-4 rounded-[6px] flex items-center gap-x-4;
+}
+
+.swiper-horizontal
+  > .section-pagination-bullets
+  .swiper-horizontal
+  .swiper-pagination-bullet,
+.swiper-pagination-horizontal.swiper-pagination-bullets
+  .swiper-pagination-bullet {
+  @apply bg-primary;
+}
