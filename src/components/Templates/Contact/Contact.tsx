@@ -49,7 +49,7 @@ const Contact = () => {
             </div>
             <div className="flex items-center gap-x-8">
               <RiPhoneFill size={18} className="text-primary" />
-              <div>+55 99 999999999</div>
+              <div>+55 21 982493309</div>
             </div>
           </div>
           <Form />

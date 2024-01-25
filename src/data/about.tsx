@@ -14,7 +14,7 @@ export const infoData = [
     },
     {
         icon: <RiPhoneFill size={20} />,
-        text: "+55 99 999999999",
+        text: "+55 21 982493309",
     },
     {
         icon: <RiMailFill size={20} />,
@@ -22,7 +22,7 @@ export const infoData = [
     },
     {
         icon: <RiCalendarFill size={20} />,
-        text: "Nascido em 09 de abril de 1994",
+        text: "Nascido em 09 de abril de 1993",
     },
     {
         icon: <RiGraduationCapFill size={20} />,
