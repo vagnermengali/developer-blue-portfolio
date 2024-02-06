@@ -12,7 +12,7 @@ const Work = () => {
 
   return (
     <section className="relative mb-12 xl:mb-48">
-      <div className="container mx-auto">
+      <div className="container mx-auto xl:flex xl:justify-between">
         <div
           className="max-w-[400px] mx-auto
           xl:mx-0 text-center xl:text-left mb-12 xl:h-[400px]
@@ -33,18 +33,18 @@ const Work = () => {
           </Link>
         </div>
         <div
-          className="xl:max-w-[1000px] xl:absolute right-0
+          className="xl:max-w-[780px]
         top-0"
         >
           <Swiper
-            className="h-[580px]"
+            className="h-fit"
             slidesPerView={1}
             breakpoints={{
               640: {
                 slidesPerView: 2,
               },
             }}
-            spaceBetween={30}
+            spaceBetween={20}
             modules={[Pagination]}
             pagination={{ clickable: true }}
           >

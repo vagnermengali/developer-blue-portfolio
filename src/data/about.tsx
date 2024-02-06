@@ -14,7 +14,7 @@ export const infoData = [
     },
     {
         icon: <RiPhoneFill size={20} />,
-        text: "+55 21 982493309",
+        text: "+55 21 983493309",
     },
     {
         icon: <RiMailFill size={20} />,
@@ -69,50 +69,50 @@ export const skillsData = [
         data: [
             {
                 icons: [
-                    "/about/skills/html5.svg",
-                    "/about/skills/css.svg",
-                    "/about/skills/styled-components.svg",
-                    "/about/skills/tailwind.svg",
+                    "/icon/html5.svg",
+                    "/icon/css.svg",
+                    "/icon/styled-components.svg",
+                    "/icon/tailwind.svg",
                 ],
             },
             {
                 icons: [
-                    "/about/skills/javascript.svg",
-                    "/about/skills/typescript.svg",
-                    "/about/skills/react.png",
-                    "/about/skills/next.png",
+                    "/icon/javascript.svg",
+                    "/icon/typescript.svg",
+                    "/image/react.png",
+                    "/image/next.png",
                 ],
             },
             {
                 icons: [
-                    "/about/skills/nodejs.svg",
-                    "/about/skills/express.svg",
-                    "/about/skills/typeorm.svg",
-                    "/about/skills/prisma.svg",
+                    "/icon/nodejs.svg",
+                    "/icon/express.svg",
+                    "/icon/typeorm.svg",
+                    "/icon/prisma.svg",
                 ],
             },
             {
                 icons: [
-                    "/about/skills/python.png",
-                    "/about/skills/django.svg",
-                    "/about/skills/java.svg",
-                    "/about/skills/springboot.png",
+                    "/image/python.png",
+                    "/icon/django.svg",
+                    "/icon/java.svg",
+                    "/image/springboot.png",
                 ],
             },
             {
                 icons: [
-                    "/about/skills/nest.png",
-                    "/about/skills/php.svg",
-                    "/about/skills/laravel.svg",
-                    "/about/skills/redis.svg",
+                    "/image/nest.png",
+                    "/icon/php.svg",
+                    "/icon/laravel.svg",
+                    "/icon/redis.svg",
                 ],
             },
             {
                 icons: [
-                    "/about/skills/postgres.svg",
-                    "/about/skills/mysql.svg",
-                    "/about/skills/mongodb.svg",
-                    "/about/skills/docker.svg",
+                    "/icon/postgres.svg",
+                    "/icon/mysql.svg",
+                    "/icon/mongodb.svg",
+                    "/icon/docker.svg",
                 ],
             },
         ],
@@ -121,25 +121,25 @@ export const skillsData = [
         title: "tools",
         data: [
             {
-                imgPath: "/about/tools/windows.svg",
+                imgPath: "/icon/windows.svg",
             },
             {
-                imgPath: "/about/tools/linux.svg",
+                imgPath: "/icon/linux.svg",
             },
             {
-                imgPath: "/about/tools/vscode.svg",
+                imgPath: "/icon/vscode.svg",
             },
             {
-                imgPath: "/about/tools/insomnia.svg",
+                imgPath: "/icon/insomnia.svg",
             },
             {
-                imgPath: "/about/tools/jira.svg",
+                imgPath: "/icon/jira.svg",
             },
             {
-                imgPath: "/about/tools/notion.svg",
+                imgPath: "/icon/notion.svg",
             },
             {
-                imgPath: "/about/tools/trello.svg",
+                imgPath: "/icon/trello.svg",
             },
         ],
     },
