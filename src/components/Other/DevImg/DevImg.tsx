@@ -9,7 +9,7 @@ const DevImg = ({ containerStyles, containerStylesImage, imgSrc, priority, alt }
         priority ?
           <Image className={`${containerStylesImage} overflow-hidden`} src={imgSrc} width={500} height={500} priority alt={alt}/>
           :
-          <Image className={`${containerStylesImage} overflow-hidden`} src={imgSrc} width={500} height={500} alt={alt}/>
+          <Image className={`${containerStylesImage} overflow-hidden`} src={imgSrc} width={430} height={560} alt={alt}/>
       }
 
     </div>
