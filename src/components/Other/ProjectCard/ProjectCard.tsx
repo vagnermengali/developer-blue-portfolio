@@ -64,7 +64,7 @@ const ProjectCard = ({ project, specialStyle }: ProjectCardInterface) => {
         >
           {project.category}
         </Badge>
-        <h4 className="h4 mb-1">{project.name}</h4>
+        <p className="h4 mb-1">{project.name}</p>
         <p
           className={`text-muted-foreground
                 text-lg  ${cardClass}`}
