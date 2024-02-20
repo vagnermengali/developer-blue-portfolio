@@ -54,7 +54,6 @@ const Reviews = () => {
                         width={70}
                         height={70}
                         alt="Profile Image"
-                        priority
                       />
 
                       <div className="flex flex-col">
