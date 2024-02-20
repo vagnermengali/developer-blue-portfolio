@@ -41,7 +41,7 @@ const InitialHome = () => {
             >
               <Link href="/contact" aria-label="contact">
                 <Button className="gap-x-2">
-                Contate-me <RiMailSendFill size={18} />
+                  Contate-me <RiMailSendFill size={18} />
                 </Button>
               </Link>
               <Link
@@ -80,6 +80,7 @@ const InitialHome = () => {
               icon={<RiTeamFill />} endCountNum={6}
               badgeText="Clientes satisfeitos" />
             <DevImg
+              priority
               containerStyles=" w-[510px] animate-up-down
             h-[510px] relative flex items-center"
               imgSrc="/image/developer.png"
