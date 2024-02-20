@@ -21,16 +21,16 @@ const config: Config = {
       colors: {
         border: "#384261",
         input: "#191f41",
-        ring: "#0024FA",
+        ring: "#7A90FF",
         background: "#090a1a",
         foreground: "#7d7c85",
         primary: {
-          DEFAULT: "#0024FA",
+          DEFAULT: "#7A90FF",
           foreground: "#edf0fc",
         },
         secondary: {
           DEFAULT: "#1f2751",
-          foreground: "#0024FA",
+          foreground: "#7A90FF",
         },
         tertiary: {
           DEFAULT: "#090a1a",
@@ -45,7 +45,7 @@ const config: Config = {
           DEFAULT: "#282937",
         },
         destructive: {
-          DEFAULT: "#0024FA",
+          DEFAULT: "#7A90FF",
           foreground: "#090a1a",
         },
         muted: {
@@ -54,7 +54,7 @@ const config: Config = {
         },
         accent: {
           DEFAULT: "#2d334c",
-          foreground: "#0024FA",
+          foreground: "#7A90FF",
         },
         popover: {
           DEFAULT: "#9499CC",
@@ -62,7 +62,7 @@ const config: Config = {
         },
         card: {
           DEFAULT: "#090a1a",
-          foreground: "#0024FA",
+          foreground: "#7A90FF",
         },
       },
       keyframes: {
