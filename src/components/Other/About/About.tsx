@@ -26,6 +26,7 @@ const About = () => {
         <div className="flex flex-col xl:flex-row">
           <div className="hidden xl:flex flex-1 relative">
             <DevImg
+              alt="second image"
               containerStylesImage="w-[430px] h-[560px] rounded-[12px] z-10"
               containerStyles="w-[530px] h-[660px] flex items-start justify-end
             bg-no-repeat relative before:z-10 before:rounded-xl before:absolute before:content-[''] before:w-[430px] before:h-[560px] before:border-dashed before:border-2 before:border-primary before:top-[20px] before:right-[30px]"

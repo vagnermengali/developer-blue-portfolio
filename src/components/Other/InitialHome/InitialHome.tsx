@@ -80,6 +80,7 @@ const InitialHome = () => {
               icon={<RiTeamFill />} endCountNum={6}
               badgeText="Clientes satisfeitos" />
             <DevImg
+              alt="initial image"
               priority
               containerStyles=" w-[510px] animate-up-down
             h-[510px] relative flex items-center"

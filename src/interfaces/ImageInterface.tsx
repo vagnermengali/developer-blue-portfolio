@@ -3,4 +3,5 @@ export interface ImageInterface {
     containerStylesImage?: string;
     imgSrc: string;
     priority?: boolean;
+    alt: string;
 }
