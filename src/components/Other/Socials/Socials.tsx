@@ -9,7 +9,7 @@ const Socials = ({ containerStyles, iconsStyles }: SocialInterface) => {
     <div className={`${containerStyles}`}>
       {icons.map((icon, index) => {
         return (
-          <Link target="_blank" href={icon.path} key={index}>
+          <Link target="_blank" href={icon.path} key={index} aria-label={icon.title}>
             <div className={`${iconsStyles}`}>{icon.name}</div>
           </Link>
         );

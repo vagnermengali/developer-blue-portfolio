@@ -39,7 +39,7 @@ const InitialHome = () => {
               className="flex flex-col gap-y-3 md:flex-row gap-x-3
              mx-auto xl:mx-0 mb-12"
             >
-              <Link href="/contact">
+              <Link href="/contact" aria-label="contact">
                 <Button className="gap-x-2">
                 Contate-me <RiMailSendFill size={18} />
                 </Button>
@@ -47,6 +47,7 @@ const InitialHome = () => {
               <Link
                 target="_blank"
                 href="/colocar-cv"
+                aria-label="cv"
               >
                 <Button variant="secondary" className="gap-x-2">
                   Download CV

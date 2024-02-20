@@ -16,6 +16,7 @@ const Nav = ({ containerStyles, linkStyles, underlineStyles }: NavInterface) => 
             href={link.path}
             key={index}
             className={`capitalize ${linkStyles}`}
+            aria-label={link.name}
           >
             {link.path === path && (
               <motion.span
