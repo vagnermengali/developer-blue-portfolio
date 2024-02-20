@@ -49,16 +49,16 @@ const config: Config = {
           foreground: "#090a1a",
         },
         muted: {
-          DEFAULT: "#4b5193",
-          foreground: "#4b5193",
+          DEFAULT: "#9499CC",
+          foreground: "#9499CC",
         },
         accent: {
           DEFAULT: "#2d334c",
           foreground: "#647bff",
         },
         popover: {
-          DEFAULT: "#4b5193",
-          foreground: "#4b5193",
+          DEFAULT: "#9499CC",
+          foreground: "#9499CC",
         },
         card: {
           DEFAULT: "#090a1a",
