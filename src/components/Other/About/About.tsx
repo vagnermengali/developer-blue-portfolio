@@ -47,9 +47,6 @@ const About = () => {
                   value="qualifications"
                 >
                   Qualificações
-
-
-
                 </TabsTrigger>
                 <TabsTrigger className="w-[162px] xl:w-auto" value="skills">
                   Habilidades
