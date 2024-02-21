@@ -10,27 +10,27 @@ import {
 export const infoData = [
     {
         icon: <RiUserFill size={20} />,
-        text: "Marcus Vinicius Nascimento Ferreira",
+        text: "Vagner Mengali",
     },
-    {
-        icon: <RiPhoneFill size={20} />,
-        text: "+55 21 983493309",
-    },
+    /*     {
+            icon: <RiPhoneFill size={20} />,
+            text: "+55 21 983493309",
+        }, */
     {
         icon: <RiMailFill size={20} />,
-        text: "dev.mvinicius@gmail.com",
+        text: "contatovagnermengali@gmail.com",
     },
-    {
+/*     {
         icon: <RiCalendarFill size={20} />,
-        text: "Nascido em 09 de abril de 1993",
-    },
+        text: "Nascido em 21 de dezembro de 2000",
+    }, */
     {
         icon: <RiGraduationCapFill size={20} />,
         text: "Desenvolvedor full stack",
     },
     {
         icon: <RiHomeFill size={20} />,
-        text: "Cabo Frio, Rio de Janeiro, Brasil",
+        text: "São Paulo, São Paulo, Brasil",
     },
 ];
 

@@ -31,7 +31,7 @@ const InitialHome = () => {
             >
               Desenvolvedor Full Stack
             </div>
-            <h1 className="h1 mb-4">Olá, meu nome é Marcus Vinícius</h1>
+            <h1 className="h1 mb-4">Olá, meu nome é Vagner Mengali</h1>
             <p className="subtitle max-w-[490px] mx-auto xl:mx-0">
               Desenvolvimento full stack com foco pronunciado e entusiasmo pela construção de soluções front-end poderosas.
             </p>
