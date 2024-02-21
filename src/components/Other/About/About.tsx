@@ -3,7 +3,6 @@ import {
   RiGraduationCapFill,
   RiBriefcaseFill,
 } from "react-icons/ri";
-
 import DevImg from "@/components/Other/DevImg/DevImg";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/Other/UI/tabs";
 
