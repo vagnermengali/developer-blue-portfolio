@@ -8,7 +8,7 @@ import DevImg from "@/components/Other/DevImg/DevImg";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/Other/UI/tabs";
 
 import { infoData, qualificationData, skillsData } from "@/data/about";
-import Icon from "../UI/Icon";
+import Icon from "@/components/Other/UI/Icon";
 
 const About = () => {
   const getData = (arr: any, title: any) => {
