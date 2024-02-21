@@ -1,6 +1,6 @@
 export const projectData = [
   {
-    image: "/image/motors-shop.png",
+    image: "",
     category: "fullstack",
     name: "Motors Shop",
     description:
@@ -9,7 +9,7 @@ export const projectData = [
     github: "/"
   },
   {
-    image: "/image/kenzie-hub.png",
+    image: "",
     category: "front end",
     name: "Kenzie Hub",
     description:
@@ -18,7 +18,7 @@ export const projectData = [
     github: "/"
   },
   {
-    image: "/image/burguer-kenzie.png",
+    image: "",
     category: "front end",
     name: "Burguer Kenzie",
     description:
@@ -27,7 +27,7 @@ export const projectData = [
     github: "/"
   },
   {
-    image: "/image/api.png",
+    image: "/api.webp",
     category: "back end",
     name: "CRUD Users + Admin",
     description:

@@ -79,8 +79,8 @@ export const skillsData = [
                 icons: [
                     "/icon/javascript.svg",
                     "/icon/typescript.svg",
-                    "/image/react.png",
-                    "/image/next.png",
+                    "",
+                    "",
                 ],
             },
             {
@@ -93,15 +93,15 @@ export const skillsData = [
             },
             {
                 icons: [
-                    "/image/python.png",
+                    "",
                     "/icon/django.svg",
                     "/icon/java.svg",
-                    "/image/springboot.png",
+                    "",
                 ],
             },
             {
                 icons: [
-                    "/image/nest.png",
+                    "",
                     "/icon/php.svg",
                     "/icon/laravel.svg",
                     "/icon/redis.svg",

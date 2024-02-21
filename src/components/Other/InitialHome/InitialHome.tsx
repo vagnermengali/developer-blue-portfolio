@@ -84,7 +84,7 @@ const InitialHome = () => {
               priority
               containerStyles=" w-[510px] animate-up-down
             h-[510px] relative flex items-center"
-              imgSrc="/image/developer.png"
+              imgSrc="/developer.webp"
             />
           </div>
         </div>

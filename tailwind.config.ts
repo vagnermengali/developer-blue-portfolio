@@ -82,7 +82,7 @@ const config: Config = {
         "up-down-1": "upDownLarge 7.4s ease-in-out infinite",
       },
       backgroundImage: {
-        work_project_bg: "url(/image/project-bg.png)",
+        work_project_bg: "url(/project-bg.webp)",
         contact_illustration: "url(/icon/illustration.svg)",
       },
     },

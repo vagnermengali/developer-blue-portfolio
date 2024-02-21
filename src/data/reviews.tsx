@@ -1,38 +1,20 @@
 export const reviewsData = [
   {
-    avatar: "/image/avatar-1.png",
+    avatar: "",
     name: "Richard Thompson",
     job: "Chef",
     review: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
   },
   {
-    avatar: "/image/avatar-2.png",
+    avatar: "",
     name: "Evelyn Anderson",
     job: "Interior Designer",
     review: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
   },
   {
-    avatar: "/image/avatar-3.png",
+    avatar: "",
     name: "John Wick",
     job: "Gamer Dev",
     review: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-  },
-  {
-    avatar: "/image/avatar-4.png",
-    name: "Amy Smith",
-    job: "Therapist",
-    review: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-  },
-  {
-    avatar: "/image/avatar-5.png",
-    name: "Oliver Sykes Jr",
-    job: "Enginner",
-    review: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-  },
-  {
-    avatar: "/image/avatar-6.png",
-    name: "Dr Gregory House",
-    job: "Doctor",
-    review: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-  },
+  }
 ];

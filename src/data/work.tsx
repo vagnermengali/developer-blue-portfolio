@@ -1,6 +1,6 @@
 export const workData = [
   {
-    image: "/image/api.png",
+    image: "/api.webp",
     category: "back end",
     name: "Bandkamp",
     description:
@@ -9,7 +9,7 @@ export const workData = [
     github: "/"
   },
   {
-    image: "/image/motors-shop.png",
+    image: "",
     category: "fullstack",
     name: "Motors Shop",
     description:
@@ -18,7 +18,7 @@ export const workData = [
     github: "/"
   },
   {
-    image: "/image/kenzie-hub.png",
+    image: "",
     category: "front end",
     name: "Kenzie Hub",
     description:
