@@ -127,25 +127,25 @@ export const skillsData = [
         title: "tools",
         data: [
             {
-                imgPath: "/icon/windows.svg",
+                imgPath: "Windows",
             },
             {
-                imgPath: "/icon/linux.svg",
+                imgPath: "Linux",
             },
             {
-                imgPath: "/icon/vscode.svg",
+                imgPath: "Vscode",
             },
             {
-                imgPath: "/icon/insomnia.svg",
+                imgPath: "Insomnia",
             },
             {
-                imgPath: "/icon/jira.svg",
+                imgPath: "Jira",
             },
             {
-                imgPath: "/icon/notion.svg",
+                imgPath: "Notion",
             },
             {
-                imgPath: "/icon/trello.svg",
+                imgPath: "Trello",
             },
         ],
     },

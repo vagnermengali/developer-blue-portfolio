@@ -214,8 +214,7 @@ const About = () => {
                                     style={{ width: "48px", height: "48px" }}
                                     className="relative w-20 h-20 cursor-pointer transition duration-300 transform hover:scale-110 mx-2 my-2"
                                   >
-                                    <Icon width={48}
-                                      height={48} id={imgPath} />
+                                    <Icon width={48}height={48} id={imgPath} />
                                   </div>
                                 ))}
                               </div>
@@ -234,13 +233,7 @@ const About = () => {
                           const { imgPath } = item;
                           return (
                             <div key={index}>
-                              <Image
-                                src={imgPath}
-                                width={28}
-                                height={28}
-                                alt="Tools Image"
-                                priority
-                              />
+                              <Icon width={28}height={28} id={imgPath} />
                             </div>
                           );
                         }
