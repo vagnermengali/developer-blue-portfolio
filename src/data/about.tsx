@@ -20,10 +20,10 @@ export const infoData = [
         icon: <RiMailFill size={20} />,
         text: "contatovagnermengali@gmail.com",
     },
-/*     {
-        icon: <RiCalendarFill size={20} />,
-        text: "Nascido em 21 de dezembro de 2000",
-    }, */
+    /*     {
+            icon: <RiCalendarFill size={20} />,
+            text: "Nascido em 21 de dezembro de 2000",
+        }, */
     {
         icon: <RiGraduationCapFill size={20} />,
         text: "Desenvolvedor full stack",
@@ -69,50 +69,56 @@ export const skillsData = [
         data: [
             {
                 icons: [
-                    "/icon/html5.svg",
-                    "/icon/css.svg",
-                    "/icon/styled-components.svg",
-                    "/icon/tailwind.svg",
+                    "HTML",
+                    "CSS",
+                    "Styled Components",
+                    "TailwindCSS",
                 ],
             },
             {
                 icons: [
-                    "/icon/javascript.svg",
-                    "/icon/typescript.svg",
+                    "JavaScript",
+                    "TypeScript",
+                    "React",
+                    "NextJs",
+                ],
+            },
+            {
+                icons: [
+                    "NodeJS",
+                    "NestJS",
+                    "Express",
+                    "PrismaJs",
+                ],
+            },
+            {
+                icons: [
+                    "Jest",
+                    "Django",
+                    "Git",
+                    "Figma",
+                ],
+            },
+            {
+                icons: [
+                    "MongoDB",
+                    "PostgreSQL",
                     "",
                     "",
                 ],
             },
             {
                 icons: [
-                    "/icon/nodejs.svg",
-                    "/icon/express.svg",
-                    "/icon/typeorm.svg",
-                    "/icon/prisma.svg",
-                ],
-            },
-            {
-                icons: [
+                    "Docker",
+                    "SQlite",
                     "",
-                    "/icon/django.svg",
-                    "/icon/java.svg",
                     "",
                 ],
             },
             {
                 icons: [
-                    "",
-                    "/icon/php.svg",
-                    "/icon/laravel.svg",
-                    "/icon/redis.svg",
-                ],
-            },
-            {
-                icons: [
-                    "/icon/postgres.svg",
-                    "/icon/mysql.svg",
-                    "/icon/mongodb.svg",
-                    "/icon/docker.svg",
+                    "Sass",
+                    "Vtex",
                 ],
             },
         ],

@@ -83,7 +83,7 @@ const config: Config = {
       },
       backgroundImage: {
         work_project_bg: "url(/project-bg.webp)",
-        contact_illustration: "url(/icon/illustration.svg)",
+        contact_illustration: "url(/project-bg-2.webp)",
       },
     },
   },

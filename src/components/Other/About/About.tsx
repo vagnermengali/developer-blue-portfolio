@@ -8,6 +8,7 @@ import DevImg from "@/components/Other/DevImg/DevImg";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/Other/UI/tabs";
 
 import { infoData, qualificationData, skillsData } from "@/data/about";
+import Icon from "../UI/Icon";
 
 const About = () => {
   const getData = (arr: any, title: any) => {
@@ -87,7 +88,7 @@ const About = () => {
                 <TabsContent value="qualifications">
                   <div>
                     <h3 className="h3 mb-8 text-center xl:text-left">
-                    Minhas qualificações
+                      Minhas qualificações
                     </h3>
                     <div className="grid md:grid-cols-2 gap-y-8">
                       <div className="flex flex-col gap-y-6">
@@ -214,14 +215,8 @@ const About = () => {
                                     style={{ width: "48px", height: "48px" }}
                                     className="relative w-20 h-20 cursor-pointer transition duration-300 transform hover:scale-110 mx-2 my-2"
                                   >
-                                    <Image
-                                      src={imgPath}
-                                      alt={`Skill ${idx}`}
-                                      width={48}
-                                      height={48}
-                                      layout="responsive"
-                                      priority
-                                    />
+                                    <Icon width={48}
+                                      height={48} id={imgPath} />
                                   </div>
                                 ))}
                               </div>
@@ -231,7 +226,7 @@ const About = () => {
                       </div>
                     </div>
                     <h4 className="text-xl font-semibold mb-2 xl:text-left">
-                    Ferramentas
+                      Ferramentas
                     </h4>
                     <div className="border-b border-border mb-4"></div>
                     <div className="flex gap-x-8 justify-center xl:justify-start">
