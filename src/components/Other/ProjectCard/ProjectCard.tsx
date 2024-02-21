@@ -33,7 +33,7 @@ const ProjectCard = ({ project, specialStyle }: ProjectCardInterface) => {
             <Link
               target="_blank"
               href={project.link}
-              aria-label={project.image}
+              aria-label={"deploy"}
               className="bg-secondary w-[54px] h[54px]
               rounded-[4px] flex justify-center scale-0 py-2
                   opacity-0 group-hover:scale-100 group-hover:opacity-100
@@ -45,7 +45,7 @@ const ProjectCard = ({ project, specialStyle }: ProjectCardInterface) => {
             <Link
               target="_blank"
               href={project.github}
-              aria-label={project.image}
+              aria-label={"github"}
               className="bg-secondary w-[54px] h[54px]
               rounded-[4px] flex justify-center scale-0 py-2
                   opacity-0 group-hover:scale-100 group-hover:opacity-100
