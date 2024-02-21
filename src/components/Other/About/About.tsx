@@ -30,7 +30,7 @@ const About = () => {
               containerStylesImage="w-[430px] h-[560px] rounded-[12px] z-10"
               containerStyles="w-[530px] h-[660px] flex items-start justify-end
             bg-no-repeat relative before:z-10 before:rounded-xl before:absolute before:content-[''] before:w-[430px] before:h-[560px] before:border-dashed before:border-2 before:border-primary before:top-[20px] before:right-[30px]"
-              imgSrc="/image/developer-1.jpg"
+              imgSrc="/developer-1.webp"
             />
           </div>
           <div className="flex-1">
