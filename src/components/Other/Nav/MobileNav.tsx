@@ -11,7 +11,7 @@ export const MobileNav = () => {
   return (
     <Sheet>
       <SheetTrigger>
-        <RiAlignJustify className="cursor-pointer" />
+        <RiAlignJustify className="cursor-pointer text-3xl" />
       </SheetTrigger>
       <SheetContent>
         <div
