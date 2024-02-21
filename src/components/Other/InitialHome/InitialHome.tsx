@@ -17,7 +17,7 @@ const InitialHome = () => {
 
   return (
     <section
-      className="py-12 xl:py-24 xl:pt-14 relative"
+      className="py-12 md:pt-24 xl:py-24 xl:pt-0 relative"
     >
       <div className="container mx-auto">
         <div className="flex justify-between gap-x-8">

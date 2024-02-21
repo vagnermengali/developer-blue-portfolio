@@ -36,7 +36,7 @@ const About = () => {
           <div className="flex-1">
             <Tabs defaultValue="personal">
               <TabsList
-                className="w-full grid xl:grid-cols-3 
+                className="w-full grid xl:grid-cols-3 md:grid-cols-3
                 xl:max-w[520px] xl:border border-none"
               >
                 <TabsTrigger className="w-[162px] xl:w-auto" value="personal">
