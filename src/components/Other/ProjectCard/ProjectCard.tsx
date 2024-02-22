@@ -21,14 +21,14 @@ const ProjectCard = ({ project, specialStyle }: ProjectCardInterface) => {
            flex items-center justify-center bg-secondary/40 xl:bg-work_project_bg xl:bg-no-repeat overflow-hidden xl:bg-contain"
         >
           <Image
-            className="relative shadow-2xl w-fit max-h-72 py-14 px-4"
+            className="relative shadow-2xl w-fit max-h-72 py-16 px-4"
             src={project.image}
             fill
             alt="Project Image"
             priority
           />
           <div className="flex gap-x-4">
-            <Link
+            {project.link && <Link
               target="_blank"
               href={project.link}
               aria-label={"deploy"}
@@ -38,8 +38,7 @@ const ProjectCard = ({ project, specialStyle }: ProjectCardInterface) => {
                   transition-all duration-200"
             >
               <RiExternalLinkFill className="text-white" />
-            </Link>
-
+            </Link>}
             <Link
               target="_blank"
               href={project.github}
