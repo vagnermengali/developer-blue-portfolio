@@ -15,7 +15,7 @@ const About = () => {
   };
 
   return (
-    <section className="xl:h-[860px] pb-12 xl:py-24">
+    <section className="xl:h-fit pb-12 xl:py-24">
       <div className="container mx-auto">
         <h2
           className="section-title mb-8 xl:mb-16 text-center 
@@ -56,7 +56,7 @@ const About = () => {
                 <TabsContent value="personal">
                   <div className="text-center xl:text-left">
                     <h3 className="h3 mb-4">
-                      Qualidade de serviço há mais de 2 anos
+                      Qualidade de serviço há mais de {new Date().getFullYear() - 2020} anos
                     </h3>
                     <p className="subtitle max-w-xl mx-auto xl:mx-0">
                       Movido por uma curiosidade insaciável, dedico-me ao ofício da codificação, engajando-me em novos projetos e aprendendo continuamente.

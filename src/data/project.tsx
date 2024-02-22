@@ -1,38 +1,42 @@
 export const projectData = [
   {
-    image: "",
-    category: "fullstack",
-    name: "Motors Shop",
-    description:
-      "Aplicativo web para compra e venda de veículos. Os usuários podem se cadastrar como clientes ou anunciantes, fazer login, atualizar informações de perfil e gerenciar seus anúncios, entre outros. Usei React, chakra ui e Node.js",
-    link: "/",
-    github: "/"
-  },
-  {
-    image: "",
+    image: "/portfolio.webp",
     category: "front end",
-    name: "Kenzie Hub",
-    description:
-      "É uma plataforma que simplifica o registro, login, gerenciamento de stacks, bem como a interação e compartilhamento de conhecimento entre a comunidade de desenvolvedores.",
-    link: "/",
-    github: "/"
+    name: "Portfolio",
+    description: "Um site centralizado que apresenta minhas informações pessoais, qualificações, portfólio de projetos e detalhes sobre mim.",
+    link: "https://portfolio-vagner-mengali-vagnermengali.vercel.app/",
+    github: "https://github.com/vagnermengali/portfolio-vagner-mengali"
   },
   {
-    image: "",
+    image: "/yrprey.webp",
     category: "front end",
-    name: "Burguer Kenzie",
-    description:
-      "Este projeto foi criado para simular o site de uma hamburgueria, com o objetivo de implementar funcionalidades e estilização utilizando React.JS e Styled Components. O projeto utilizou uma API para acessar a lista de produtos e permitiu a simulação de um carrinho de compras.",
-    link: "/",
-    github: "/"
+    name: "YRprey",
+    description: "Um site modelo que simula diversas vulnerabilidades e falhas de segurança, desafiando desenvolvedores a testar suas habilidades na detecção e correção desses problemas em sistemas web.",
+    link: "https://yrprey-git-main-vagnermengali.vercel.app/",
+    github: "https://github.com/vagnermengali/yrprey"
   },
   {
-    image: "/api.webp",
-    category: "back end",
-    name: "CRUD Users + Admin",
-    description:
-      "É uma aplicação desenvolvida em Node.js, utilizando JavaScript como linguagem principal. O objetivo do projeto é fornecer um serviço CRUD para gerenciamento de usuários, com adição de funcionalidades de permissão de administrador.",
-    link: "/",
-    github: "/"
-  }
+    image: "/portfolio-green.webp",
+    category: "front end",
+    name: "Portfolio",
+    description: "Um projeto desenvolvido com foco no aprendizado de tecnologias como Tailwind CSS, Next.js, TypeScript e técnicas de animação web",
+    link: "https://developer-green-portfolio-vagnermengali.vercel.app/",
+    github: "https://github.com/vagnermengali/developer-green-portfolio"
+  },
+  {
+    image: "/dogma.webp",
+    category: "front end",
+    name: "Dogma",
+    description: "Um website dedicado à empresa de construção, fornecendo informações sobre serviços, projetos concluídos e contatos.",
+    link: "https://www.grupodogma.site/",
+    github: "https://github.com/vagnermengali/dogma"
+  },
+  {
+    image: "/portfolio-blue.webp",
+    category: "front end",
+    name: "Portfolio",
+    description: "Um projeto educacional para explorar e praticar o uso de tecnologias modernas como Tailwind CSS, Next.js, TypeScript e implementações de animações para web.",
+    link: "https://developer-blue-portfolio-vagnermengali.vercel.app/",
+    github: "https://github.com/vagnermengali/developer-blue-portfolio"
+  },
 ];

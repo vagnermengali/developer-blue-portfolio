@@ -46,7 +46,7 @@ const InitialHome = () => {
               </Link>
               <Link
                 target="_blank"
-                href="/colocar-cv"
+                href="https://drive.google.com/file/d/1-kh_Qrf7ef2CdM7-8wrXkWtXv0UfKPdP/view?usp=sharing"
                 aria-label="cv"
               >
                 <Button variant="secondary" className="gap-x-2">
@@ -65,7 +65,7 @@ const InitialHome = () => {
             <Badge
               containerStyles="absolute top-[24%] -left-[5rem]  animate-up-down-3"
               icon={<RiBriefcase4Fill />}
-              endCountNum={2}
+              endCountNum={new Date().getFullYear() - 2020}
               badgeText="Anos de experiência"
             />
 

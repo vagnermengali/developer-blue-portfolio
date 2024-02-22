@@ -39,16 +39,10 @@ export const qualificationData = [
         title: "education",
         data: [
             {
-                school: "Vai na Web",
-                qualification: "Formação de Desenvolvedor em Tecnologia (Front end)",
-                years: "agosto de 2023 - dez de 2023",
-            },
-            {
                 school: "Kenzie Academy Brasil",
                 qualification: "Desenvolvedor full stack",
                 years: "mar de 2022 - mar de 2023",
             },
-
         ],
     },
     {
@@ -57,7 +51,22 @@ export const qualificationData = [
             {
                 company: "Wicomm",
                 role: "Desenvolvedor de front-end",
-                years: "mai de 2023 - o momento",
+                years: "abri de 2023 - o momento",
+            },
+            {
+                company: "Kenzie Academy Brasil",
+                role: "Monitor",
+                years: "mai de 2022 - nov de 2022",
+            },
+            {
+                company: "Fitoxs",
+                role: "Desenvolvedor full-stack",
+                years: "set de 2020 - fev de 2022",
+            },
+            {
+                company: "Fitoxs",
+                role: "Desenvolvedor front-end",
+                years: "fev de 2020 - set de 2020",
             },
         ],
     },

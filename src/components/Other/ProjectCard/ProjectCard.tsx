@@ -17,15 +17,13 @@ const ProjectCard = ({ project, specialStyle }: ProjectCardInterface) => {
     <Card className="group overflow-hidden relative">
       <CardHeader className="p-0">
         <div
-          className="relative w-full h-[300px]
-           flex items-center justify-center bg-secondary/40 xl:bg-work_project_bg 
-            xl:bg-[110%] xl:bg-no-repeat overflow-hidden"
+          className="relative w-full h-72
+           flex items-center justify-center bg-secondary/40 xl:bg-work_project_bg xl:bg-no-repeat overflow-hidden xl:bg-contain"
         >
           <Image
-            className="absolute bottom-0 shadow-2xl"
+            className="relative shadow-2xl w-fit max-h-72 py-14 px-4"
             src={project.image}
-            width={247}
-            height={250}
+            fill
             alt="Project Image"
             priority
           />
@@ -56,7 +54,7 @@ const ProjectCard = ({ project, specialStyle }: ProjectCardInterface) => {
           </div>
         </div>
       </CardHeader>
-      <div className="h-full px-8 py-6">
+      <div className="h-64 px-8 py-6">
         <Badge
           className="uppercase
                 text-sm font-medium mb-2 absolute top-4

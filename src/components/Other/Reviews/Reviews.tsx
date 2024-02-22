@@ -35,14 +35,13 @@ const Reviews = () => {
           pagination={{
             clickable: true,
           }}
-          className="h-[350px]"
+          className="h-fit"
         >
           {reviewsData.map((person: any, index: number) => {
             return (
               <SwiperSlide key={index}>
                 <Card
-                  className="bg-secondary/40 p-8 
-                        min-h-[300px]"
+                  className="bg-secondary/40 p-8 max-h-96 h-screen overflow-hidden"
                 >
                   <CardHeader
                     className="
@@ -54,6 +53,7 @@ const Reviews = () => {
                         width={70}
                         height={70}
                         alt="Profile Image"
+                        className="rounded-full"
                       />
 
                       <div className="flex flex-col">
@@ -64,7 +64,7 @@ const Reviews = () => {
                   </CardHeader>
                   <CardDescription
                     className="text-lg 
-                            text-muted-foreground"
+                            text-muted-foreground overflow-y-scroll scrollbar-none h-60"
                   >
                     {person.review}
                   </CardDescription>

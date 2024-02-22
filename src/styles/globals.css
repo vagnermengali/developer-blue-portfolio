@@ -64,3 +64,11 @@
   .swiper-pagination-bullet {
   @apply bg-primary;
 }
+
+.swiper.swiper-initialized.swiper-horizontal.swiper-backface-hidden {
+  @apply flex flex-col gap-3;
+}
+
+.swiper-pagination.swiper-pagination-clickable.swiper-pagination-bullets.swiper-pagination-horizontal {
+  @apply static;
+}
