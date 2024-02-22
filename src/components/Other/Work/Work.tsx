@@ -15,8 +15,8 @@ const Work = () => {
       <div className="container mx-auto xl:flex xl:justify-between">
         <div
           className="max-w-[400px] mx-auto
-          xl:mx-0 text-center xl:text-left mb-12 xl:h-[400px]
-          flex flex-col justify-center items-center 
+          xl:mx-0 text-center xl:text-left mb-12 xl:h-fit
+          flex flex-col justify-center items-center xl:justify-center
           xl:items-start"
         >
           <h2

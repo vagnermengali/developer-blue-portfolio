@@ -65,7 +65,7 @@
   @apply bg-primary;
 }
 
-.swiper.swiper-initialized.swiper-horizontal.swiper-backface-hidden {
+.swiper.swiper-initialized.swiper-horizontal {
   @apply flex flex-col gap-3;
 }
 
