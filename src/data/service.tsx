@@ -7,9 +7,9 @@ import {
 export const servicesData = [
   {
     icon: <RiCodeSSlashFill size={72} strokeWidth={0.8} />,
-    title: "Desenvolvedor Full Stack",
+    title: "Desenvolvedor Front-End",
     description:
-      "Trabalhei em soluções abrangentes que abrangem tanto front-end quanto back-end. Posso criar aplicações robustas e integradas, proporcionando uma experiência de usuário completa",
+      "Trabalhei em soluções abrangentes que abrangem front-end. Posso criar aplicações robustas e integradas, proporcionando uma experiência de usuário completa",
   },
   {
     icon: <RiDatabase2Fill size={72} strokeWidth={0.8} />,

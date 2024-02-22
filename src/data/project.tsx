@@ -39,4 +39,20 @@ export const projectData = [
     link: "https://developer-blue-portfolio-vagnermengali.vercel.app/",
     github: "https://github.com/vagnermengali/developer-blue-portfolio"
   },
+  {
+    image: "/api.webp",
+    category: "back end",
+    name: "User crud ",
+    description: "Este é um crud de usuário que visa facilitar o acesso com funcionalidades básicas de um usuário e login.",
+    link: "",
+    github: "https://github.com/vagnermengali/user-crud"
+  },
+  {
+    image: "/scanner-cnab.webp",
+    category: "full stack",
+    name: "Scanner CNAB",
+    description: "Este é a aplicação Scanner CNBA - Que tem fins de facilitar o escaneamento de documentos CNAB.txt",
+    link: "https://scanner-cnab-vagnermengali.vercel.app/",
+    github: "https://github.com/vagnermengali/developer-blue-portfolio"
+  },
 ];
