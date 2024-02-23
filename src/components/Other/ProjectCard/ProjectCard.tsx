@@ -21,9 +21,10 @@ const ProjectCard = ({ project, specialStyle }: ProjectCardInterface) => {
            flex items-center justify-center bg-secondary/40 xl:bg-work_project_bg xl:bg-no-repeat overflow-hidden xl:bg-contain"
         >
           <Image
-            className="relative shadow-2xl w-fit max-h-72 py-16 px-4"
+            className="absolute shadow-2xl py-16 px-4"
             src={project.image}
-            fill
+            width={1920}
+            height={869}
             alt="Project Image"
           />
           <div className="flex gap-x-4">
