@@ -17,13 +17,14 @@ const ProjectCard = ({ project, specialStyle }: ProjectCardInterface) => {
     <Card className="group overflow-hidden relative">
       <CardHeader className="p-0">
         <div
-          className="relative w-full h-48
+          className="relative w-full h-72
            flex items-center justify-center bg-secondary/40 xl:bg-work_project_bg xl:bg-no-repeat overflow-hidden xl:bg-contain"
         >
           <Image
-            className="absolute shadow-2xl"
+            className="absolute shadow-2xl translate-y-1/2 translate-x-0 top-0 left-0"
             src={project.image}
-            fill
+            width={1920}
+            height={869}
             alt="Project Image"
           />
           <div className="flex gap-x-4">
