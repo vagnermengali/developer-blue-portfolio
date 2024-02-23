@@ -25,7 +25,6 @@ const ProjectCard = ({ project, specialStyle }: ProjectCardInterface) => {
             src={project.image}
             fill
             alt="Project Image"
-            priority
           />
           <div className="flex gap-x-4">
             {project.link && <Link
