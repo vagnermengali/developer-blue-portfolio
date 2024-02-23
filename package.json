@@ -29,7 +29,8 @@
     "swiper": "^11.0.5",
     "tailwind-merge": "^2.0.0",
     "tailwindcss-animate": "^1.0.7",
-    "vercel": "^32.6.1"
+    "vercel": "^32.6.1",
+    "@emailjs/browser": "^3.11.0"
   },
   "devDependencies": {
     "typescript": "^5",

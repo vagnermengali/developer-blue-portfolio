@@ -41,16 +41,16 @@ const Contact = () => {
           >
             <div className="flex items-center gap-x-8">
               <RiMailFill size={18} className="text-primary" />
-              <div>dev.mvinicius@gmail.com</div>
+              <div>contatovagnermengali@gmail.com</div>
             </div>
             <div className="flex items-center gap-x-8">
               <RiHomeFill size={18} className="text-primary" />
-              <div>Cabo Frio, Rio de Janeiro, Brasil</div>
+              <div>São Paulo, São Paulo, Brasil</div>
             </div>
-            <div className="flex items-center gap-x-8">
+{/*             <div className="flex items-center gap-x-8">
               <RiPhoneFill size={18} className="text-primary" />
               <div>+55 21 983493309</div>
-            </div>
+            </div> */}
           </div>
           <Form />
         </div>

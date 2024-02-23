@@ -40,7 +40,7 @@ export const projectData = [
     github: "https://github.com/vagnermengali/developer-blue-portfolio"
   },
   {
-    image: "/apis.webp",
+    image: "/api.webp",
     category: "back end",
     name: "User crud ",
     description: "Este é um crud de usuário que visa facilitar o acesso com funcionalidades básicas de um usuário e login.",
