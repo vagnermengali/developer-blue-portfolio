@@ -1,6 +1,6 @@
 # Developer blue portfolio
 
-[![Banner](https://github.com/vagnermengali/developer-blue-portfolio/blob/main/public/portfolio-blue.webp)](https://github.com/vagnermengali/developer-blue-portfolio)
+[![Banner](https://github.com/vagnermengali/developer-blue-portfolio/blob/main/public/portfolio-blue.webp)](https://developer-blue-portfolio-vagnermengali.vercel.app/)
 
 Este é um portfólio desenvolvido para fins de estudo utilizando as seguintes tecnologias: Next.js, Tailwind CSS, @emailjs/browser,
 Swiper, Sonner, React Hook Form, Framer Motion, React Countup, TypeScript e Radix UI.
