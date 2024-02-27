@@ -1,68 +1,68 @@
-# Developer blue portfolio
+# Developer Blue Portfolio
 
 [![Banner](https://github.com/vagnermengali/developer-blue-portfolio/blob/main/public/portfolio-blue.webp)](https://developer-blue-portfolio-vagnermengali.vercel.app/)
 
-Este é um portfólio desenvolvido para fins de estudo utilizando as seguintes tecnologias: Next.js, Tailwind CSS, @emailjs/browser,
-Swiper, Sonner, React Hook Form, Framer Motion, React Countup, TypeScript e Radix UI.
+This is a portfolio developed for study purposes using the following technologies: Next.js, Tailwind CSS, @emailjs/browser,
+Swiper, Sonner, React Hook Form, Framer Motion, React Countup, TypeScript and Radix UI.
 
-## Tecnologias Utilizadas
+## Technologies Used
 
-- **Next.js**: Um framework de React para construção de aplicativos web.
-- **Tailwind CSS**: Um framework CSS utilitário para desenvolvimento rápido e flexível.
-- **@emailjs/browser**: Uma biblioteca JavaScript para envio de e-mails diretamente do navegador.
-- **Swiper**: Uma biblioteca moderna de slides para construção de carrosséis e sliders.
-- **Sonner**: (Inserir breve descrição da tecnologia, se aplicável)
-- **React Hook Form**: Uma biblioteca para formulários em React, com suporte a hooks.
-- **Framer Motion**: Uma biblioteca de animação para React.
-- **React Countup**: Um componente React para criar animações de contagem.
-- **TypeScript**: Um superset JavaScript que adiciona tipagem estática ao código.
-- **Radix UI**: Uma biblioteca de componentes acessíveis e com estilo, projetados para serem altamente modulares e fáceis de usar em seus aplicativos React.
+- **Next.js**: A React framework for building web applications.
+- **Tailwind CSS**: A utility-first CSS framework for rapid and flexible development.
+- **@emailjs/browser**: A JavaScript library for sending emails directly from the browser.
+- **Swiper**: A modern slide library for building carousels and sliders.
+- **Sonner**: (Insert brief description of the technology, if applicable)
+- **React Hook Form**: A library for forms in React, with hooks support.
+- **Framer Motion**: An animation library for React.
+- **React Countup**: A React component for creating counting animations.
+- **TypeScript**: A superset of JavaScript that adds static typing to the code.
+- **Radix UI**: A library of accessible and styled components, designed to be highly modular and easy to use in your React applications.
 
-## Rotas Disponíveis
+## Available Routes
 
-- **/home**: Página inicial do portfólio.
-- **/projects**: Página com projetos realizados.
-- **/contact**: Página de contato.
+- **/home**: Portfolio's home page.
+- **/projects**: Page with completed projects.
+- **/contact**: Contact page.
 
-## Instalação
+## Installation
 
-Para executar este projeto localmente, siga as instruções abaixo:
+To run this project locally, follow the instructions below:
 
-1. Clone o repositório:
+1. Clone the repository:
 
    ```bash
    git clone https://github.com/vagnermengali/developer-blue-portfolio.git
 
-2. Acesse o diretório do projeto:
+2. Access the project directory:
 
    ```bash
    cd developer-blue-portfolio
 
-3. Instale as dependências:
+3. Install the dependencies:
 
    ```bash
    yarn install
 
-4. Inicie o servidor de desenvolvimento:
+4. Start the development server:
 
    ```bash
    yarn dev
 
-5. Acesse a aplicação em seu navegador através da rota:
+5. Access the application in your browser through the route:
 
    ```bash
    http://localhost:3000/
 
 ## Deploy
 
-Este projeto está disponível em: [https://developer-blue-portfolio-vagnermengali.vercel.app/](https://developer-blue-portfolio-vagnermengali.vercel.app/)
+This project is available at: [https://developer-blue-portfolio-vagnermengali.vercel.app/](https://developer-blue-portfolio-vagnermengali.vercel.app/)
 
-## Contribuição
+## Contribution
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir um PR ou relatar problemas.
+Contributions are welcome! Feel free to open a PR or report issues.
 
-Se este projeto foi útil para você, considere deixar uma estrela (⭐) no repositório para apoiar o desenvolvimento.
+If this project has been helpful to you, consider leaving a star (⭐) on the repository to support development.
 
-## Licença
+## License
 
-Este projeto está sob a [Licença MIT](https://opensource.org/licenses/MIT).
+This project is under the [MIT License](https://opensource.org/licenses/MIT).
