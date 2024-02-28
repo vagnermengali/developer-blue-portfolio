@@ -12,18 +12,10 @@ export const infoData = [
         icon: <RiUserFill size={20} />,
         text: "Vagner Mengali",
     },
-    /*     {
-            icon: <RiPhoneFill size={20} />,
-            text: "+55 21 983493309",
-        }, */
     {
         icon: <RiMailFill size={20} />,
         text: "contatovagnermengali@gmail.com",
     },
-    /*     {
-            icon: <RiCalendarFill size={20} />,
-            text: "Nascido em 21 de dezembro de 2000",
-        }, */
     {
         icon: <RiGraduationCapFill size={20} />,
         text: "Desenvolvedor full stack",

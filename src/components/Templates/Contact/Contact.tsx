@@ -47,10 +47,6 @@ const Contact = () => {
               <RiHomeFill size={18} className="text-primary" />
               <div>São Paulo, São Paulo, Brasil</div>
             </div>
-{/*             <div className="flex items-center gap-x-8">
-              <RiPhoneFill size={18} className="text-primary" />
-              <div>+55 21 983493309</div>
-            </div> */}
           </div>
           <Form />
         </div>
