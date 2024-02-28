@@ -52,7 +52,7 @@ const Projects = () => {
             {filteredProjects.map((project, index) => {
               return (
                 <TabsContent value={category} key={index}>
-                  <ProjectCard project={project} specialStyle={true} />
+                  <ProjectCard id={index} project={project} specialStyle={true} />
                 </TabsContent>
               );
             })}

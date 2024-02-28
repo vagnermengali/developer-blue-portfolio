@@ -1,4 +1,5 @@
 export interface ProjectCardInterface {
+    id?: any;
     project: {
         image: string;
         category: string;

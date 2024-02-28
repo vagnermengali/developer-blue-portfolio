@@ -10,11 +10,11 @@ import { Badge } from "@/components/Other/UI/badge";
 
 import { ProjectCardInterface } from "@/interfaces/ProjectInterface";
 
-const ProjectCard = ({ project, specialStyle }: ProjectCardInterface) => {
+const ProjectCard = ({ project, specialStyle, id }: ProjectCardInterface) => {
   const cardClass = specialStyle ? "min-description-height" : "";
 
   return (
-    <Card className="group overflow-hidden relative">
+    <Card id={id} className="group overflow-hidden relative">
       <CardHeader className="p-0">
         <div
           className="relative w-full h-72
