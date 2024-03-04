@@ -1,0 +1,77 @@
+{
+  "name": "Portfolio | Vagner Mengali",
+  "short_name": "Portfolio",
+  "description": "Portfólio pessoal de Vagner Mengali, mostrando seu trabalho e experiência.",
+  "author": "Vagner Mengali",
+  "lang": "pt-BR",
+  "theme_color": "#7a90ff",
+  "background_color": "#090a1a",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon.webp",
+      "sizes": "32x32",
+      "type": "image/webp",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/favicon.webp",
+      "sizes": "48x48",
+      "type": "image/webp",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/favicon.webp",
+      "sizes": "96x96",
+      "type": "image/webp",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/favicon.webp",
+      "sizes": "144x144",
+      "type": "image/webp",
+      "purpose": "maskable any"
+    },
+    {
+        "src": "/favicon.webp",
+        "sizes": "521x512",
+        "type": "image/webp",
+        "purpose": "maskable any"
+      }
+  ],
+  "related_applications": [
+    {
+      "platform": "web",
+      "url": "https://developer-blue-portfolio-vagnermengali.vercel.app/",
+      "id": "com.vagnermengali.portfolio"
+    }
+  ],
+  "manifest_version": 3,
+  "permissions": ["notifications"],
+  "offline_enabled": true,
+  "routing": {
+    "dynamic": true,
+    "static": true
+  },
+  "i18n": {
+    "locales": {
+      "en": {
+        "name": "Portfolio | Vagner Mengali",
+        "description": "Personal portfolio of Vagner Mengali, showcasing his work and experience."
+      }
+    },
+    "default_locale": "pt-BR"
+  },
+  "navigation": {
+    "home": "/",
+    "projects": "/projects",
+    "contact": "/contact"
+  }
+}
