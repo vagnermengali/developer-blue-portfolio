@@ -1,5 +1,9 @@
 # Developer Blue Portfolio
 
+<div align="center">
+  <img src='https://github.com/vagnermengali/developer-blue-portfolio/blob/main/public/perfomace.webp'/>
+</div>
+
 [![Banner](https://github.com/vagnermengali/developer-blue-portfolio/blob/main/public/portfolio-blue.webp)](https://developer-blue-portfolio-vagnermengali.vercel.app/)
 
 This is a portfolio developed for study purposes using the following technologies: Next.js, Tailwind CSS, @emailjs/browser,
