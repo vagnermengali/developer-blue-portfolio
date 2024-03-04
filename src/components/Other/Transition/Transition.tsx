@@ -13,6 +13,7 @@ const Transition = ({ children }: ChildrenInterface) => {
         initial="hidden"
         animate="enter"
         transition={{ type: "linear", delay: 0.2, duration: 0.4 }}
+        className='bg-background'
       >
         {children}
       </motion.main>
