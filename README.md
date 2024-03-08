@@ -57,6 +57,12 @@ To run this project locally, follow the instructions below:
    ```bash
    http://localhost:3000/
 
+Access the application in your browser through the following address: [http://localhost:3000/](http://localhost:3000/). Explore the project files using your preferred code editor and make any necessary changes.
+
+## Setting up the Email Contact Form
+
+Follow [this tutorial](https://www.youtube.com/watch?v=Zbg1BHOVzRg) to learn how to set up an email contact form using JavaScript.
+
 ## Deploy
 
 This project is available at: [https://developer-blue-portfolio-vagnermengali.vercel.app/](https://developer-blue-portfolio-vagnermengali.vercel.app/)
