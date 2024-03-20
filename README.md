@@ -1,78 +1,63 @@
-# Developer Blue Portfolio
+# Título do Seu Projeto
 
-<div align="center">
-  <img src='https://github.com/vagnermengali/developer-blue-portfolio/blob/main/public/perfomace.webp'/>
-</div>
+Descrição curta do projeto em ambas as línguas.
 
-[![Banner](https://github.com/vagnermengali/developer-blue-portfolio/blob/main/public/portfolio-blue.webp)](https://developer-blue-portfolio-vagnermengali.vercel.app/)
+## Introdução
 
-This is a portfolio developed for study purposes using the following technologies: Next.js, Tailwind CSS, @emailjs/browser,
-Swiper, Sonner, React Hook Form, Framer Motion, React Countup, TypeScript and Radix UI.
+[Leia em Português](#introdução-português) | [Read in English](#introduction-english)
 
-## Technologies Used
+### Introdução Português
 
-- **Next.js**: A React framework for building web applications.
-- **Tailwind CSS**: A utility-first CSS framework for rapid and flexible development.
-- **@emailjs/browser**: A JavaScript library for sending emails directly from the browser.
-- **Swiper**: A modern slide library for building carousels and sliders.
-- **Sonner**: (Insert brief description of the technology, if applicable)
-- **React Hook Form**: A library for forms in React, with hooks support.
-- **Framer Motion**: An animation library for React.
-- **React Countup**: A React component for creating counting animations.
-- **TypeScript**: A superset of JavaScript that adds static typing to the code.
-- **Radix UI**: A library of accessible and styled components, designed to be highly modular and easy to use in your React applications.
+Introdução detalhada do seu projeto em português.
 
-## Available Routes
+### Introduction English
 
-- **/home**: Portfolio's home page.
-- **/projects**: Page with completed projects.
-- **/contact**: Contact page.
+Detailed introduction of your project in English.
 
-## Installation
+## Instalação
 
-To run this project locally, follow the instructions below:
+[Leia em Português](#instalação-português) | [Read in English](#installation-english)
 
-1. Clone the repository:
+### Instalação Português
 
-   ```bash
-   git clone https://github.com/vagnermengali/developer-blue-portfolio.git
+Instruções de instalação em português.
 
-2. Access the project directory:
+### Installation English
 
-   ```bash
-   cd developer-blue-portfolio
+Installation instructions in English.
 
-3. Install the dependencies:
+## Utilização
 
-   ```bash
-   yarn install
+[Leia em Português](#utilização-português) | [Read in English](#usage-english)
 
-4. Start the development server:
+### Utilização Português
 
-   ```bash
-   yarn dev
+Instruções de uso do seu projeto em português.
 
-5. Access the application in your browser through the route:
+### Usage English
 
-   ```bash
-   http://localhost:3000/
+Usage instructions of your project in English.
 
-Access the application in your browser through the following address: [http://localhost:3000/](http://localhost:3000/). Explore the project files using your preferred code editor and make any necessary changes.
+## Contribuição
 
-## Setting up the Email Contact Form
+[Leia em Português](#contribuição-português) | [Read in English](#contribution-english)
 
-Follow [this tutorial](https://www.youtube.com/watch?v=Zbg1BHOVzRg) to learn how to set up an email contact form using JavaScript.
+### Contribuição Português
 
-## Deploy
+Informações sobre como os outros podem contribuir para o seu projeto em português.
 
-This project is available at: [https://developer-blue-portfolio-vagnermengali.vercel.app/](https://developer-blue-portfolio-vagnermengali.vercel.app/)
+### Contribution English
 
-## Contribution
+Information on how others can contribute to your project in English.
 
-Contributions are welcome! Feel free to open a PR or report issues.
+## Licença
 
-If this project has been helpful to you, consider leaving a star (⭐) on the repository to support development.
+[Leia em Português](#licença-português) | [Read in English](#license-english)
 
-## License
+### Licença Português
 
-This project is under the [MIT License](https://opensource.org/licenses/MIT).
+Informações sobre a licença do seu projeto em português.
+
+### License English
+
+Information about your project's license in English.
