@@ -1,4 +1,6 @@
-# Developer Blue Portfolio
+<h1 align="center">
+  Developer Blue Portfolio
+</h1>
 
 <div align="center">
   <img src='https://github.com/vagnermengali/developer-blue-portfolio/blob/main/public/perfomace.webp'/>
