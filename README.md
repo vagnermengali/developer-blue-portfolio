@@ -33,7 +33,7 @@ Swiper, Sonner, React Hook Form, Framer Motion, React Countup, TypeScript e Radi
 
 ## Rotas Disponíveis
 
-- **/home**: Página inicial do portfólio.
+- **/** : Página inicial do portfólio.
 - **/projects**: Página com projetos concluídos.
 - **/contact**: Página de contato.
 
@@ -108,7 +108,7 @@ Swiper, Sonner, React Hook Form, Framer Motion, React Countup, TypeScript and Ra
 
 ## Available Routes
 
-- **/home**: Portfolio's home page.
+- **/** : Portfolio's home page.
 - **/projects**: Page with completed projects.
 - **/contact**: Contact page.
 
