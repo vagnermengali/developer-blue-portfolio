@@ -11,10 +11,11 @@ const Seo = ({ title, description }: SeoInterface) => {
             <meta name="viewport" content="width=device-width, initial-scale=1.0" />
             <title>{title === "Homepage" ? "Vagner Mengali • Portfólio" : `${title} • Vagner Mengali • Portfólio`}</title>
             <link rel="shortcut icon" href="/favicon.webp" type="x-icon" />
-            <link rel="icon" href="/favicon.webp" sizes="32x32" />
-            <link rel="icon" href="/favicon.webp" sizes="48x48" />
-            <link rel="icon" href="/favicon.webp" sizes="96x96" />
-            <link rel="icon" href="/favicon.webp" sizes="144x144" />
+            <link rel="icon" href="/favicon32x32.webp" sizes="32x32" />
+            <link rel="icon" href="/favicon48x48.webp" sizes="48x48" />
+            <link rel="icon" href="/favicon96x96.webp" sizes="96x96" />
+            <link rel="icon" href="/favicon144x144.webp" sizes="144x144" />
+            <link rel="icon" href="/favicon512x512.webp" sizes="512x512" />
             <meta name="description" content={description} />
             <meta property="og:title" content={title} />
             <meta property="og:description" content={description} />

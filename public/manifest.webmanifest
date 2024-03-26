@@ -11,40 +11,40 @@
   "start_url": "/",
   "icons": [
     {
-      "src": "/favicon.png",
+      "src": "/favicon521x512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/favicon.webp",
+      "src": "/favicon32x32.webp",
       "sizes": "32x32",
       "type": "image/webp",
       "purpose": "maskable any"
     },
     {
-      "src": "/favicon.webp",
+      "src": "/favicon48x48.webp",
       "sizes": "48x48",
       "type": "image/webp",
       "purpose": "maskable any"
     },
     {
-      "src": "/favicon.webp",
+      "src": "/favicon96x96.webp",
       "sizes": "96x96",
       "type": "image/webp",
       "purpose": "maskable any"
     },
     {
-      "src": "/favicon.webp",
+      "src": "/favicon144x144.webp",
       "sizes": "144x144",
       "type": "image/webp",
       "purpose": "maskable any"
     },
     {
-        "src": "/favicon.webp",
-        "sizes": "521x512",
-        "type": "image/webp",
-        "purpose": "maskable any"
-      }
+      "src": "/favicon521x512.webp",
+      "sizes": "512x512",
+      "type": "image/webp",
+      "purpose": "maskable any"
+    }
   ],
   "related_applications": [
     {
