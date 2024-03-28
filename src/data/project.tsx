@@ -1,11 +1,11 @@
 export const projectData = [
   {
-    image: "/portfolio.webp",
+    image: "/portfolio-purple.webp",
     category: "front end",
-    name: "Portfolio",
-    description: "Um site centralizado que apresenta minhas informações pessoais, qualificações, portfólio de projetos e detalhes sobre mim.",
-    link: "https://portfolio-vagner-mengali-vagnermengali.vercel.app/",
-    github: "https://github.com/vagnermengali/portfolio-vagner-mengali"
+    name: "Portfolio Open Source",
+    description: "Este é um portfólio desenvolvido para beneficiar desenvolvedores que ainda não têm seu portfólio ou desenvolvedores que desejam um portfólio.",
+    link: "https://developer-purple-portfolio-vagnermengali.vercel.app/",
+    github: "https://github.com/vagnermengali/developer-purple-portfolio"
   },
   {
     image: "/yrprey.webp",
@@ -18,8 +18,8 @@ export const projectData = [
   {
     image: "/portfolio-green.webp",
     category: "front end",
-    name: "Portfolio",
-    description: "Um projeto desenvolvido com foco no aprendizado de tecnologias como Tailwind CSS, Next.js, TypeScript e técnicas de animação web",
+    name: "Portfolio Open Source",
+    description: "Este é um portfólio desenvolvido para beneficiar desenvolvedores que ainda não têm seu portfólio ou desenvolvedores que desejam um portfólio.",
     link: "https://developer-green-portfolio-vagnermengali.vercel.app/",
     github: "https://github.com/vagnermengali/developer-green-portfolio"
   },
@@ -34,8 +34,8 @@ export const projectData = [
   {
     image: "/portfolio-blue.webp",
     category: "front end",
-    name: "Portfolio",
-    description: "Um projeto educacional para explorar e praticar o uso de tecnologias modernas como Tailwind CSS, Next.js, TypeScript e implementações de animações para web.",
+    name: "Portfolio Open Source",
+    description: "Este é um portfólio desenvolvido para beneficiar desenvolvedores que ainda não têm seu portfólio ou desenvolvedores que desejam um portfólio.",
     link: "https://developer-blue-portfolio-vagnermengali.vercel.app/",
     github: "https://github.com/vagnermengali/developer-blue-portfolio"
   },

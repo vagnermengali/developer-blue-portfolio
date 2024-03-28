@@ -18,13 +18,13 @@ const ProjectCard = ({ project, specialStyle, id }: ProjectCardInterface) => {
       <CardHeader className="p-0">
         <div
           className="relative w-full h-72
-           flex items-center justify-center bg-secondary/40 xl:bg-work_project_bg xl:bg-no-repeat overflow-hidden xl:bg-contain"
+           flex items-center justify-center bg-secondary/40 bg-work_project_bg xl:bg-no-repeat overflow-hidden xl:bg-contain"
         >
           <Image
-            className="absolute shadow-2xl translate-y-1/2 translate-x-0 top-0 left-0"
+            className="absolute shadow-2xl translate-y-1/2 -translate-x-1/2 top-0 left-1/2"
             src={project.image}
-            width={1920}
-            height={869}
+            width={300}
+            height={300}
             alt="Project Image"
           />
           <div className="flex gap-x-4">
