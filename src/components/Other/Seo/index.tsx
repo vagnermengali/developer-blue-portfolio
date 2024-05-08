@@ -9,7 +9,7 @@ const Seo = ({ title, description }: SeoInterface) => {
             <link rel="fluid-icon" href="/favicon.webp" title="Vagner Mengali" />
             <link rel="icon" type="svg+xml" href="/favicon.webp" />
             <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-            <title>{title === "Homepage" ? "Vagner Mengali • Portfólio" : `${title} • Vagner Mengali • Portfólio`}</title>
+            <title>{title}</title>
             <link rel="shortcut icon" href="/favicon.webp" type="x-icon" />
             <link rel="icon" href="/favicon32x32.webp" sizes="32x32" />
             <link rel="icon" href="/favicon48x48.webp" sizes="48x48" />
