@@ -162,3 +162,9 @@ If this project has been helpful to you, consider leaving a star (⭐) on the re
 ## License
 
 This project is under the [MIT License](https://opensource.org/licenses/MIT).
+
+---
+
+<div align="center">
+   <span>Created by </span><a href="https://github.com/vagnermengali">Vagner Mengali</a>
+</div>
